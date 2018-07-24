@@ -24,3 +24,8 @@ sysctl kern.maxfiles=10240
 License information:
 
 Although the libowfat library is under GPL, Felix von Leitner agreed that the compiled binary may be distributed under the same beer ware license as the source code for opentracker. However, we like to hear from happy customers.
+
+Credits:
+Opentracker from erdgeist.org/arts/software/opentracker
+Original Debian packaging by https://www.github.com/TheCreeper/OpentTracker
+Debian packaging fixes by Shreyansh Khajanchi <shreyansh_k@live.com> <github.com/shreyanshk>
