@@ -1,0 +1,17 @@
+Source: opentracker
+Maintainer: dc0 <dc0@firebit.co.uk>
+Section: net
+Priority: optional
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9), libowfat-dietlibc-dev, libz-dev
+Vcs-Git: https://github.com/TheCreeper/opentracker.git
+Vcs-Browser: https://github.com/TheCreeper/opentracker
+Homepage: https://github.com/TheCreeper/opentracker
+
+Package: opentracker
+Architecture: all
+Depends: ${misc:Depends}
+Recommends:
+Suggests:
+Description: opentracker is a open and free bittorrent tracker project.
+ It aims for minimal resource usage and is intended to run at your wlan router.
